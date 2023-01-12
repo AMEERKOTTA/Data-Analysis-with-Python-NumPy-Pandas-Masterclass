@@ -15,3 +15,7 @@ Detailed Study of Data Analysis with Pandas and Numpy.
     + Array Functions.
     + Array Sorting.
     + Vectorization and BroadCasting Concepts
+    
++ Section 3 : Pandas Series.
+    + Pandas Series Basics.
+    + 
