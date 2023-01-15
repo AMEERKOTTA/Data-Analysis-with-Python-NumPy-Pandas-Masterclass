@@ -18,4 +18,4 @@ Detailed Study of Data Analysis with Pandas and Numpy.
     
 + Section 3 : Pandas Series.
     + Pandas Series Basics.
-    + 
+    + Series Index and Custom Indices.
