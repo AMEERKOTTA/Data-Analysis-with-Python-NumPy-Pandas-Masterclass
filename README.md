@@ -19,3 +19,10 @@ Detailed Study of Data Analysis with Pandas and Numpy.
 + Section 3 : Pandas Series.
     + Pandas Series Basics.
     + Series Index and Custom Indices.
+    + Filtering Series, Logical Tests and Sorting Series.
+    + Numerical and text Series Operations
+    + Numerical and Categorical Series Aggregations.
+    + Missing Values and handling them.
+    + Applying Custom functions and .where() method
+    
+    
