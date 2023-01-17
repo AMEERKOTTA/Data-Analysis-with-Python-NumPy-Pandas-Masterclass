@@ -38,3 +38,6 @@ Detailed Study of Data Analysis with Pandas and Numpy.
     + Filtering the Dataframe. 
         + `We can filter using the Different Masks that are applied in Series and numpy Arrays.`
         + `We can use the .query method to do the filtering.`
+    + Sorting Dataframes.
+        + We can sort by Index using `.sort_index()`
+        + We can sort by Values using `.sort_values()`
