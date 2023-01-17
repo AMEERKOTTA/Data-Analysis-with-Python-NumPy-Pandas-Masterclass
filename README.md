@@ -32,3 +32,6 @@ Detailed Study of Data Analysis with Pandas and Numpy.
     + Dropping rows and columns, and duplicates rows.  
          + `data.drop()`
          + `data.drop_duplicates(subset = "column")`
+    + Handling the Missing Data.
+        + Checking the Missing Values, `data.isna().sum()`
+        + Fill the missing values, `data.fillna(value)`
