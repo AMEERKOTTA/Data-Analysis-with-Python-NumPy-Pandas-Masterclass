@@ -51,4 +51,4 @@ Detailed Study of Data Analysis with Pandas and Numpy.
     + Mapping Values to Columns, Creating new Columns with `.assign` method.
         + Mapping Method - `.map()`
 
-+ Aggregating and Reshaping Dataframes.
++ Section 5 : Aggregating and Reshaping Dataframes.
