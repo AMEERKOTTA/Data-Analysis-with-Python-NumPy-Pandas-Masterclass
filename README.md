@@ -52,3 +52,6 @@ Detailed Study of Data Analysis with Pandas and Numpy.
         + Mapping Method - `.map()`
 
 + Section 5 : Aggregating and Reshaping Dataframes.
+
+    + Basic Aggregation and Groupby methods.
+        + `df.groupby(["column1","column2"])[["column"]]`
