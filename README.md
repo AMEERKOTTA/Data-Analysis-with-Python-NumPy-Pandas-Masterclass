@@ -27,3 +27,5 @@ Detailed Study of Data Analysis with Pandas and Numpy.
     
 + Section 4 : Introduction to DataFrames.
     + Dataframe Basics, Creating a Dataframe.
+    + Explore the Dataframe.
+    + Accessing the Dataframe Columns and Rows.
