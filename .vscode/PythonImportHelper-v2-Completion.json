@@ -1,0 +1,11 @@
+[
+    {
+        "label": "array_key_properties",
+        "kind": 2,
+        "importPath": "Section 2 - Numpy Primer.key_array_properties",
+        "description": "Section 2 - Numpy Primer.key_array_properties",
+        "peekOfCode": "def array_key_properties(array):\n    print(f\" number of dimensions in an array (axes). :-- {array.ndim}\")\n    print(f\" size of the array in each dimensions. :-- {array.shape}\")\n    print(f\" total number of elements in the array. :-- {array.size}\")\n    print(f\" data type of the element in the array. :-- {array.dtype}\")",
+        "detail": "Section 2 - Numpy Primer.key_array_properties",
+        "documentation": {}
+    }
+]
