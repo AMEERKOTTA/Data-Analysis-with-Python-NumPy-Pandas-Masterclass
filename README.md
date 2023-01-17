@@ -29,3 +29,4 @@ Detailed Study of Data Analysis with Pandas and Numpy.
     + Dataframe Basics, Creating a Dataframe.
     + Explore the Dataframe.
     + Accessing the Dataframe Columns and Rows.
+    + Dropping rows and columns, and duplicates rows.
