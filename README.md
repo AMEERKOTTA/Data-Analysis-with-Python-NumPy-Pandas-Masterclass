@@ -41,3 +41,6 @@ Detailed Study of Data Analysis with Pandas and Numpy.
     + Sorting Dataframes.
         + We can sort by Index using `.sort_index()`
         + We can sort by Values using `.sort_values()`
+    + Renaming and Reordering Columns.
+        + `df.columns = ["column1","column2","column3"]` or `df.rename(columns = {"column1":"column_one","column2":"column_two"})`
+        + `.reindex` or `data.reindex(labels = ["column1","column2',"column3"], axis = 1)`
