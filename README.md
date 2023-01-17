@@ -35,3 +35,6 @@ Detailed Study of Data Analysis with Pandas and Numpy.
     + Handling the Missing Data.
         + Checking the Missing Values, `data.isna().sum()`
         + Fill the missing values, `data.fillna(value)`
+    + Filtering the Dataframe. 
+        + `We can filter using the Different Masks that are applied in Series and numpy Arrays.`
+        + `We can use the .query method to do the filtering.`
