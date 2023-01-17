@@ -48,4 +48,6 @@ Detailed Study of Data Analysis with Pandas and Numpy.
         + You can create Columns using Arithemtic Operations.
         + You can create a Boolean Column by assigning them a Logical Test.
         + Numpy's `.select` method lets you put different condition to create columns.
+    + Mapping Values to Columns, Creating new Columns with `.assign` method.
+        + Mapping Method - `.map()`
 
