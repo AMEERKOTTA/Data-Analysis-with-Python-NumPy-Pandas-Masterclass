@@ -44,3 +44,8 @@ Detailed Study of Data Analysis with Pandas and Numpy.
     + Renaming and Reordering Columns.
         + `df.columns = ["column1","column2","column3"]` or `df.rename(columns = {"column1":"column_one","column2":"column_two"})`
         + `.reindex` or `data.reindex(labels = ["column1","column2',"column3"], axis = 1)`
+    + Arithmetic and Boolean Column Creation.
+        + You can create Columns using Arithemtic Operations.
+        + You can create a Boolean Column by assigning them a Logical Test.
+        + Numpy's `.select` method lets you put different condition to create columns.
+
