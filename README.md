@@ -33,8 +33,6 @@ Detailed Study of Data Analysis with Pandas and Numpy.
          + `data.drop()`
          + `data.drop_duplicates(subset = "column")`
     + Handling the Missing Data.
-+ **Basic Data Visualization in Pandas**
-    
         + Checking the Missing Values, `data.isna().sum()`
         + Fill the missing values, `data.fillna(value)`
     + Filtering the Dataframe. 
@@ -67,3 +65,4 @@ Detailed Study of Data Analysis with Pandas and Numpy.
     + Transforming Dataframes  `.transform()`
     + Pivot Tables, Heatmaps, Melting methods.
         + `.pivot_table(), df.style.background_gradient(), .melt()`
++ **Section 6 : Basic Data Visualization in Pandas**
