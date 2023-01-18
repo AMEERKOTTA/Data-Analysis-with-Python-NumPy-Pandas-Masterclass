@@ -3,8 +3,8 @@ Detailed Study of Data Analysis with Pandas and Numpy.
 
 **CONTENTS AND TOPICS**
 
-+ Section 1 : Get Started.
-+ Section 2 : Numpy Primer.
++ **Section 1 : Get Started.**
++ **Section 2 : Numpy Primer.**
     + Numpy Arrays and Array Properties.
     + Array Creation.
     + Indexing and Slicing.
