@@ -16,7 +16,7 @@ Detailed Study of Data Analysis with Pandas and Numpy.
     + Array Sorting.
     + Vectorization and BroadCasting Concepts
     
-+ Section 3 : Pandas Series.
++ **Section 3 : Pandas Series.**
     + Pandas Series Basics.
     + Series Index and Custom Indices.
     + Filtering Series, Logical Tests and Sorting Series.
@@ -25,7 +25,7 @@ Detailed Study of Data Analysis with Pandas and Numpy.
     + Missing Values and handling them.
     + Applying Custom functions and .where() method
     
-+ Section 4 : Introduction to DataFrames.
++ **Section 4 : Introduction to DataFrames.**
     + Dataframe Basics, Creating a Dataframe.
     + Explore the Dataframe.
     + Accessing the Dataframe Columns and Rows.
@@ -51,7 +51,7 @@ Detailed Study of Data Analysis with Pandas and Numpy.
     + Mapping Values to Columns, Creating new Columns with `.assign` method.
         + Mapping Method - `.map()`
 
-+ Section 5 : Aggregating and Reshaping Dataframes.
++ **Section 5 : Aggregating and Reshaping Dataframes.**
 
     + Basic Aggregation and Groupby methods.
         + `df.groupby(["column1","column2"])[["column"]]`
