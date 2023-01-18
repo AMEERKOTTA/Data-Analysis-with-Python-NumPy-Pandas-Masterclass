@@ -55,3 +55,9 @@ Detailed Study of Data Analysis with Pandas and Numpy.
 
     + Basic Aggregation and Groupby methods.
         + `df.groupby(["column1","column2"])[["column"]]`
+
+    + Multi Index Dataframes and Its modifications.
+        + Three methods to Modify.
+            + `df.reset_index()`
+            + `df.swaplevel()`
+            + `df.droplevel("columns")`
