@@ -61,6 +61,5 @@ Detailed Study of Data Analysis with Pandas and Numpy.
             + `df.reset_index()`
             + `df.swaplevel()`
             + `df.droplevel("columns")`
-    + Aggregation Methods and Named Aggregations.
-        + `.agg()`
+    + Aggregation Methods and Named Aggregations. `.agg()`
     + Transforming Dataframes  `.transform()`
