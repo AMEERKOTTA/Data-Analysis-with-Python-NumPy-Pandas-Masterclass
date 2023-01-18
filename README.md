@@ -66,3 +66,5 @@ Detailed Study of Data Analysis with Pandas and Numpy.
     + Pivot Tables, Heatmaps, Melting methods.
         + `.pivot_table(), df.style.background_gradient(), .melt()`
 + **Section 6 : Basic Data Visualization in Pandas**
+    + Basic notes
+    + The matplotlib API and Line Charts.  `.plot()`
