@@ -68,3 +68,4 @@ Detailed Study of Data Analysis with Pandas and Numpy.
 + **Section 6 : Basic Data Visualization in Pandas**
     + Basic notes
     + The matplotlib API and Line Charts.  `.plot()`
+    + 
