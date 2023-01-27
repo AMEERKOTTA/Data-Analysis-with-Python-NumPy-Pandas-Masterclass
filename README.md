@@ -5,6 +5,7 @@ Detailed Study of Data Analysis with Pandas and Numpy.
 
 + **Section 1 : Get Started.**
     + Introduction
+    + Introduction about IDEs
 + **Section 2 : Numpy Primer.**
     + Numpy Arrays and Array Properties.
     + Array Creation.
